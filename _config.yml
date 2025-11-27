@@ -10,8 +10,8 @@ nav:
     url: "/about/"
   - title: "Schedule"
     url: "/schedule/"
-  - title: "Members"
-    url: "/members/"
+  - title: "Past Events"
+    url: "/past-events/"
 
 theme: null
 markdown: kramdown
