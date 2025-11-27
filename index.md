@@ -21,7 +21,7 @@ Want to see what we’ve been up to? See our [Past Events](/past-events/) for ph
 </div>
 
 <div class="home-photo">
-  <img src="/assets/images/home/home-photo.jpg" alt="Group photo">
+  <img src="/assets/images/home-photo.png" alt="Group photo">
 </div>
 
 </div>
