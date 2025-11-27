@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  background: #f7f7f7;
+  color: #222;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.site-header {
+  background: #a51c30;
+  color: #fff;
+  padding: 1.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.site-title-block {
+  margin-bottom: 0.5rem;
+}
+
+.site-title a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.site-subtitle {
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.site-nav a {
+  color: #ffecec;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.site-nav a:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.site-nav a.active {
+  background: #fff;
+  color: #a51c30;
+}
+
+.site-main {
+  padding-bottom: 3rem;
+}
+
+.page-title {
+  margin-top: 0;
+}
+
+.site-footer {
+  background: #222;
+  color: #ddd;
+  padding: 1.5rem 0;
+  font-size: 0.85rem;
+}
+
+.site-footer a {
+  color: #fff;
+}
+
+.site-footer .small {
+  margin-top: 0.25rem;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+
+.schedule-table th,
+.schedule-table td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.schedule-table th {
+  background: #eee;
+  text-align: left;
+}
+
+.schedule-abstract {
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+@media (max-width: 700px) {
+  .site-nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .schedule-table,
+  .schedule-table thead,
+  .schedule-table tbody,
+  .schedule-table th,
+  .schedule-table td,
+  .schedule-table tr {
+    display: block;
+  }
+
+  .schedule-table tr {
+    margin-bottom: 0.75rem;
+  }
+
+  .schedule-table th {
+    display: none;
+  }
+
+  .schedule-table td {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    padding: 0.25rem 0;
+  }
+
+  .schedule-table td::before {
+    font-weight: bold;
+    display: block;
+  }
+
+  .schedule-table td:nth-of-type(1)::before {
+    content: "Date";
+  }
+  .schedule-table td:nth-of-type(2)::before {
+    content: "Time";
+  }
+  .schedule-table td:nth-of-type(3)::before {
+    content: "Title";
+  }
+  .schedule-table td:nth-of-type(4)::before {
+    content: "Description";
+  }
+  .schedule-table td:nth-of-type(5)::before {
+    content: "Location";
+  }
+}

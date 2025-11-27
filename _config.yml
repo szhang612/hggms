@@ -1,0 +1,24 @@
+title: "Harvard Griffin GSAS Mathematics Society (HGGMS)"
+description: "A graduate-led society within the Harvard Griffin Graduate School of Arts and Sciences, fostering mathematical community and collaboration."
+baseurl: ""
+url: "https://your-domain.org"
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Members"
+    url: "/members/"
+
+theme: null
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
