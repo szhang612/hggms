@@ -116,7 +116,11 @@ body {
   font-size: 0.9rem;
   color: #555;
 }
-
+/* Limit width of the Photos column */
+.schedule-table td:nth-child(6),
+.schedule-table th:nth-child(6) {
+  width: 150px;
+}
 @media (max-width: 700px) {
   .site-nav ul {
     flex-direction: column;
@@ -166,6 +170,11 @@ body {
   .schedule-table td:nth-of-type(5)::before {
     content: "Location";
   }
+  .schedule-table td img {
+  max-width: 120px !important;  /* change this to whatever size you want */
+  height: auto !important;
+  display: block;
+}
 .event-photo-list {
   margin-top: 0.4rem;
   display: flex;
@@ -233,6 +242,5 @@ body {
     max-width: 220px;
   }
 }
-
   
 }
