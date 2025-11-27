@@ -166,12 +166,16 @@ body {
   .schedule-table td:nth-of-type(5)::before {
     content: "Location";
   }
-  .event-photo-thumb {
+.event-photo-list {
   margin-top: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
 }
 
-.event-photo-thumb img {
-  max-width: 140px;
+/* Was 140px; 2/3 of that ≈ 93px */
+.event-photo-list img {
+  max-width: 95px;
   height: auto;
   border-radius: 6px;
   display: block;
