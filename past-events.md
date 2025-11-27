@@ -24,12 +24,19 @@ We update this page periodically as new events happen.
     <tr>
       <td>{{ event.date | date: "%b %-d, %Y" }}</td>
       <td>{{ event.time }}</td>
-      <td>
+<td>
   <strong>{{ event.title }}</strong>
-  {% if event.photo %}
-  <div class="event-photo-thumb">
-    <img src="{{ event.photo | relative_url }}" alt="Photo from {{ event.title }}">
-  </div>
+
+  {% if event.photos %}
+    <div class="event-photo-list">
+      {% for p in event.photos %}
+      <img src="{{ p }}" alt="Photo from {{ event.title }} {{ forloop.index }}">
+      {% endfor %}
+    </div>
+  {% elsif event.photo %}
+    <div class="event-photo-list">
+      <img src="{{ event.photo }}" alt="Photo from {{ event.title }}">
+    </div>
   {% endif %}
 </td>
       <td>{{ event.abstract }}</td>
