@@ -1,17 +1,17 @@
-title: "Harvard Griffin GSAS Mathematics Society (HGGMS)"
-description: "A graduate-led society within the Harvard Griffin Graduate School of Arts and Sciences, fostering mathematical community and collaboration."
+title: "Harvard Mathematics Departmental Group"
+description: "A departmental group in the Harvard University Mathematics Department, fostering mathematical community and collaboration."
 baseurl: ""
 url: "https://szhang612.github.io"
 
 nav:
   - title: "Home"
-    url: "/"
+    url: "/hggms/"
   - title: "About"
-    url: "/about/"
+    url: "/hggms/about/"
   - title: "Schedule"
-    url: "/schedule/"
+    url: "/hggms/schedule/"
   - title: "Members"
-    url: "/members/"
+    url: "/hggms/members/"
 
 theme: null
 markdown: kramdown

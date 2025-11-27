@@ -1,12 +1,12 @@
 ---
 title: "Home"
 layout: page
-permalink: /
+permalink: /hggms/
 ---
 
-Welcome to the **Harvard Griffin GSAS Mathematics Society (HGGMS)**.
+Welcome to the **Harvard Mathematics Departmental Group**.
 
-HGGMS is a graduate-led organization within the Harvard Griffin Graduate School of Arts and Sciences dedicated to building community, fostering collaboration, and supporting mathematical exploration across all levels of study and research.
+We are a graduate-led departmental group within the Harvard University Mathematics Department dedicated to building community, fostering collaboration, and supporting mathematical exploration across all levels of study and research.
 
 We host:
 
@@ -15,6 +15,6 @@ We host:
 - Workshops, problem sessions, and collaboration events
 - Peer support, mentorship, and community-building activities
 
-Everyone in Harvard GSAS with an interest in mathematics is welcome.
+Everyone in the Harvard Mathematics Department with an interest in mathematics is welcome.
 
-See our [About](/about/) page to learn more, or check the [Schedule](/schedule/) for upcoming events.
+See our [About](/hggms/about/) page to learn more, or check the [Schedule](/hggms/schedule/) for upcoming events.
