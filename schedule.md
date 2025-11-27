@@ -1,7 +1,7 @@
 ---
 title: "Schedule"
 layout: page
-permalink: /hggms/schedule/
+permalink: /schedule/
 ---
 
 Below is our current schedule. We update this page regularly; check back for new events and announcements.

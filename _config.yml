@@ -1,17 +1,17 @@
 title: "Harvard Mathematics Departmental Group"
 description: "A departmental group in the Harvard University Mathematics Department, fostering mathematical community and collaboration."
-baseurl: ""
+baseurl: "/hggms"
 url: "https://szhang612.github.io"
 
 nav:
   - title: "Home"
-    url: "/hggms/"
+    url: "/"
   - title: "About"
-    url: "/hggms/about/"
+    url: "/about/"
   - title: "Schedule"
-    url: "/hggms/schedule/"
+    url: "/schedule/"
   - title: "Members"
-    url: "/hggms/members/"
+    url: "/members/"
 
 theme: null
 markdown: kramdown

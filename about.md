@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: page
-permalink: /hggms/about/
+permalink: /about/
 ---
 
 ## About the Group
@@ -9,7 +9,7 @@ permalink: /hggms/about/
 The **Harvard Mathematics Departmental Group** is a student-run organization within the Harvard University Mathematics Department. Our mission is to:
 
 1. Build a strong and supportive mathematical community.
-2. Facilate opportunities for collaboration across research groups and interests.
+2. Facilitate opportunities for collaboration across research groups and interests.
 3. Support professional and academic development.
 4. Organize events that create space for exploration, discussion, and social connection.
 

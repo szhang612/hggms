@@ -1,7 +1,7 @@
 ---
 title: "Members"
 layout: page
-permalink: /hggms/members/
+permalink: /members/
 ---
 
 ## Current Members

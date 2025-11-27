@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: page
-permalink: /hggms/
+permalink: /
 ---
 
 Welcome to the **Harvard Mathematics Departmental Group**.
@@ -17,4 +17,4 @@ We host:
 
 Everyone in the Harvard Mathematics Department with an interest in mathematics is welcome.
 
-See our [About](/hggms/about/) page to learn more, or check the [Schedule](/hggms/schedule/) for upcoming events.
+See our [About](/about/) page to learn more, or check the [Schedule](/schedule/) for upcoming events.
