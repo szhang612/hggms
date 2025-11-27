@@ -121,6 +121,8 @@ body {
 .schedule-table th:nth-child(6) {
   width: 150px;
 }
+
+/* mobile layout changes for nav + schedule table */
 @media (max-width: 700px) {
   .site-nav ul {
     flex-direction: column;
@@ -155,26 +157,20 @@ body {
     display: block;
   }
 
-  .schedule-table td:nth-of-type(1)::before {
-    content: "Date";
-  }
-  .schedule-table td:nth-of-type(2)::before {
-    content: "Time";
-  }
-  .schedule-table td:nth-of-type(3)::before {
-    content: "Title";
-  }
-  .schedule-table td:nth-of-type(4)::before {
-    content: "Description";
-  }
-  .schedule-table td:nth-of-type(5)::before {
-    content: "Location";
-  }
+  .schedule-table td:nth-of-type(1)::before { content: "Date"; }
+  .schedule-table td:nth-of-type(2)::before { content: "Time"; }
+  .schedule-table td:nth-of-type(3)::before { content: "Title"; }
+  .schedule-table td:nth-of-type(4)::before { content: "Description"; }
+  .schedule-table td:nth-of-type(5)::before { content: "Location"; }
+
   .schedule-table td img {
-  max-width: 120px !important;  /* change this to whatever size you want */
-  height: auto !important;
-  display: block;
+    max-width: 120px !important;
+    height: auto !important;
+    display: block;
+  }
 }
+
+/* Small photo thumbnails in the schedule photos column */
 .event-photo-list {
   margin-top: 0.4rem;
   display: flex;
@@ -189,6 +185,7 @@ body {
   border-radius: 6px;
   display: block;
 }
+
 /* Home hero layout */
 .hero {
   display: flex;
@@ -221,8 +218,8 @@ body {
 
 .hero-photo img {
   width: 100%;
-  max-width: 260px;    /* make this smaller if you like, e.g. 220px */
-  border-radius: 28px; /* big rounded corners like the screenshot */
+  max-width: 260px;   /* <-- change this number for desktop size */
+  border-radius: 28px;
   display: block;
   object-fit: cover;
 }
@@ -239,8 +236,8 @@ body {
   }
 
   .hero-photo img {
-    max-width: 220px;
+    max-width: 220px; /* <-- change this number for mobile size */
   }
 }
-  
+
 }
