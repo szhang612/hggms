@@ -4,7 +4,7 @@ layout: page
 permalink: /schedule/
 ---
 
-Below is our current schedule. We update this page regularly; check back for new events and announcements.
+Please check out the following for our upcoming events!!
 
 {% assign sorted_events = site.data.events | sort: "date" %}
 
