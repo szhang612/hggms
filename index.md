@@ -6,15 +6,12 @@ permalink: /
 
 Welcome to the **Harvard Mathematics Departmental Group**.
 
-We are a graduate-led departmental group within the Harvard University Mathematics Department dedicated to building community, fostering collaboration, and supporting mathematical exploration across all levels of study and research.
+We’re a student-led community in the Harvard Math Department focused on building connection, supporting each other, and making the department a fun and welcoming place to be.
 
-We host:
+Throughout the year, we host a wide range of events — from welcome gatherings and group birthday celebrations to fall outings, movie nights, and holiday parties. We also organize reading groups, problem sessions, and other chances to learn from each other in a relaxed setting.
 
-- Social events for mathematics graduate students
-- Reading groups and informal seminars
-- Workshops, problem sessions, and collaboration events
-- Peer support, mentorship, and community-building activities
+Our goal is simple: help math students feel supported, included, and connected.
+Whether you’re new to the department or have been here for years, you’re always welcome to join us.
 
-Everyone in the Harvard Mathematics Department with an interest in mathematics is welcome.
-
-See our [About](/about/) page to learn more, or check the [Schedule](/schedule/) for upcoming events.
+Want to see what we’ve been up to?
+See our [Past Events](/pastevents/)Past Events page for photos and highlights from previous activities, and check out our [Schedule](/schedule/) for upcoming events!
