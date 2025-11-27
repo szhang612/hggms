@@ -27,8 +27,9 @@ We update this page periodically as new events happen.
     <td>{{ event.date | date: "%b %-d, %Y" }}</td>
     <td>{{ event.time }}</td>
     <td><strong>{{ event.title }}</strong></td>
-    <!-- Photos column -->
-    <td>
+    <td>{{ event.abstract }}</td>
+    <td>{{ event.location }}</td>
+        <td>
       {% if event.photos %}
         <div class="event-photo-list">
           {% for p in event.photos %}
@@ -41,8 +42,6 @@ We update this page periodically as new events happen.
         </div>
       {% endif %}
     </td>
-    <td>{{ event.abstract }}</td>
-    <td>{{ event.location }}</td>
   </tr>
   {% endfor %}
 </tbody>
