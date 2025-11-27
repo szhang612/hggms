@@ -4,21 +4,22 @@ layout: page
 permalink: /
 ---
 
-<div class="home-two-col">
+<div class="hero">
 
-  <div class="home-left">
-    Welcome to the **Harvard Mathematics Departmental Group**.
+  <div class="hero-text">
+    <p>Welcome to the <strong>Harvard Mathematics Departmental Group</strong>.</p>
     
-    We’re a student-led community in the Harvard Math Department focused on building connection, supporting each other, and making the department a fun and welcoming place to be.
-    
-    Throughout the year, **we host a wide range of events** — from welcome gatherings and group birthday celebrations to fall outings, movie nights, board game nights, and holiday parties.
-    
-    **Our goal is simple**: help math students feel supported, included, and connected. Whether you’re new to the department or have been here for years, you’re always welcome to join us.
-    
-    Want to see what we’ve been up to? See our [Past Events](/past-events/) for photos and highlights, and check out our [Schedule](/schedule/) for upcoming events!
+    <p>We’re a student-led community in the Harvard Math Department focused on building connection, supporting each other, and making the department a fun and welcoming place to be.</p>
+
+    <p>Throughout the year, we host a wide range of events — from welcome gatherings and group birthday celebrations to fall outings, movie nights, board game nights, and holiday parties.</p>
+
+    <p>Our goal is simple: help math students feel supported, included, and connected. Whether you’re new to the department or have been here for years, you’re always welcome to join us.</p>
+
+    <p>Want to see what we’ve been up to? See our <a href="/past-events/">Past Events</a> for photos and highlights from previous activities, and check out our <a href="/schedule/">Schedule</a> for upcoming events!</p>
   </div>
-  <div class="home-right">
-    <img src="/assets/images/home/home-photo.jpg" alt="Group photo">
+
+  <div class="hero-photo">
+    <img src="/assets/images/home/home-photo.jpg" alt="Harvard Math group photo">
   </div>
 
 </div>
