@@ -241,9 +241,8 @@ body {
 }
 .schedule-table td img,
 .event-photo-list img {
-  max-width: 80px !important;  /* change to whatever size you want */
+  max-width: 60px !important;  /* change to whatever size you want */
   height: auto !important;
   display: block;
 }
 
-}
