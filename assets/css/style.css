@@ -121,6 +121,11 @@ body {
 .schedule-table th:nth-child(6) {
   width: 150px;
 }
+/* Make the Date column wider */
+.schedule-table td:nth-child(1),
+.schedule-table th:nth-child(1) {
+  width: 140px;   /* Increase or decrease this value */
+}
 
 /* mobile layout changes for nav + schedule table */
 @media (max-width: 700px) {
