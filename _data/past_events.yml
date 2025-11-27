@@ -16,7 +16,7 @@
   title: "Birthday Dinner for Oakley"
   location: "Stoked Pizza"
   abstract: ""
-  
+
 - date: 2025-04-03
   time: "7:00–9:00 PM"
   title: "Movie Night"
@@ -27,32 +27,32 @@
   time: "6:00–9:00 PM"
   title: "Birthday Dinner for Franklin"
   location: "Boston Burger Company"
-  abstract: 
-  photos: 
-  -"/assets/images/bdayparty5.jpg"
-  -"/assets/images/bdaparty2.jpg"
+  abstract: ""
+  photos:
+    - "/assets/images/bdayparty5.jpg"
+    - "/assets/images/bdaparty2.jpg"
 
 - date: 2025-02-13
   time: "6:00–9:00 PM"
   title: "Latern Festival Dinner"
   location: "Tasty Burger"
   abstract: ""
-  
+
 - date: 2025-01-31
   time: "6:00–9:00 PM"
   title: "Welcome Back Dinner"
   location: "Shanghai Fresh"
   abstract: "A celebration of the Lunar New Year!"
-  photos: 
-  -"/assets/images/springfestival.jpg"
-  -"/assets/images/springfes2.jpg"
+  photos:
+    - "/assets/images/springfestival.jpg"
+    - "/assets/images/springfes2.jpg"
 
 - date: 2024-12-13
   time: "5:30–7:00 PM"
   title: "Birthday Dinner"
   location: "Daedalus"
   abstract: "A birthday party for Eli"
-  
+
 - date: 2024-12-07
   time: "7:30–9:30 PM"
   title: "Movie Night"
@@ -64,35 +64,12 @@
   title: "Thanksgiving Dinner"
   location: "Private"
   abstract: "A thanksgiving dinner for those staying on campus"
-  photos: 
-  -"/assets/images/thanksgiving.jpg"
-  -"/assets/images/thanksgiving2.jpg"
-  
+  photos:
+    - "/assets/images/thanksgiving.jpg"
+    - "/assets/images/thanksgiving2.jpg"
+
 - date: 2024-11-22
   time: "6:30–8:30 PM"
   title: "G1/G2 Crossover Movie Night"
   location: "Science Center"
-  abstract: "A crossover movie night watching The Imitation Game"
-  
-- date: 2024-11-03
-  time: "5:30–8:00 PM"
-  title: "Secret Birthday Dinner"
-  location: "Dirty Water Dough"
-  abstract: "A surprise birthday dinner for Daniel"
-  photos: 
-  -"/assets/images/bdaypaty3.jpg"
-  -"/assets/images/bdayparty4.jpg"
-
-- date: 2024-10-29
-  time: "1:00–4:00 PM"
-  title: "Mt Auburn Cemetery Outing"
-  location: "Mt Auburn Cemetery"
-  abstract: "Fall Outing"
-  photo: "/assets/images/fallouting1.jpg"
-
-- date: 2024-09-13
-  time: "7:00–10:00 PM"
-  title: "Welcome Party + Birthday Party"
-  location: "Private"
-  abstract: "G1 Welcome Party and Birthday Party for Matthew"
-   photo: "/assets/images/bdayparty.jpg"
+  abstract: "A crossover movie night wat
