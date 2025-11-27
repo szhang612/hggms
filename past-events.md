@@ -24,7 +24,14 @@ We update this page periodically as new events happen.
     <tr>
       <td>{{ event.date | date: "%b %-d, %Y" }}</td>
       <td>{{ event.time }}</td>
-      <td><strong>{{ event.title }}</strong></td>
+      <td>
+  <strong>{{ event.title }}</strong>
+  {% if event.photo %}
+  <div class="event-photo-thumb">
+    <img src="{{ event.photo | relative_url }}" alt="Photo from {{ event.title }}">
+  </div>
+  {% endif %}
+</td>
       <td>{{ event.abstract }}</td>
       <td>{{ event.location }}</td>
     </tr>
