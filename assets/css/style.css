@@ -180,4 +180,29 @@ body {
   border-radius: 6px;
   display: block;
 }
+  .home-layout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+.home-text {
+  flex: 1 1 55%;   /* text takes most of the space */
+  min-width: 260px;
+}
+
+.home-photo img {
+  max-width: 280px;   /* adjust size as needed */
+  border-radius: 8px;
+  display: block;
+}
+
+.home-photo {
+  flex: 1 1 35%;
+  display: flex;
+  justify-content: center;
+}
+
 }
