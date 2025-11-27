@@ -72,4 +72,27 @@
   time: "6:30–8:30 PM"
   title: "G1/G2 Crossover Movie Night"
   location: "Science Center"
-  abstract: "A crossover movie night wat
+  abstract: "A crossover movie night watching The Imitation Game"
+
+- date: 2024-11-03
+  time: "5:30–8:00 PM"
+  title: "Secret Birthday Dinner"
+  location: "Dirty Water Dough"
+  abstract: "A surprise birthday dinner for Daniel"
+  photos:
+    - "/assets/images/bdaypaty3.jpg"
+    - "/assets/images/bdayparty4.jpg"
+
+- date: 2024-10-29
+  time: "1:00–4:00 PM"
+  title: "Mt Auburn Cemetery Outing"
+  location: "Mt Auburn Cemetery"
+  abstract: "Fall Outing"
+  photo: "/assets/images/fallouting1.jpg"
+
+- date: 2024-09-13
+  time: "7:00–10:00 PM"
+  title: "Welcome Party + Birthday Party"
+  location: "Private"
+  abstract: "G1 Welcome Party and Birthday Party for Matthew"
+  photo: "/assets/images/bdayparty.jpg"
