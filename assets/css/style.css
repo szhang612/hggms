@@ -232,7 +232,7 @@ body {
 }
 .schedule-table td img,
 .event-photo-list img {
-  max-width: 120px !important;  /* change to whatever size you want */
+  max-width: 220px !important;  /* change to whatever size you want */
   height: auto !important;
   display: block;
 }
