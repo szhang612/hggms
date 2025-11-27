@@ -4,6 +4,12 @@
   location: "Salem"
   abstract: "A fall outing to Salem to (pre)celebrate Halloween!"
   photo: "/assets/images/fallouting3.jpg"
+
+ - date: 2025-10-05
+  time: "6:30–8:00 PM"
+  title: "Dance Revelasian Show"
+  location: "Blackman Auditorium"
+  abstract: ""
   
 - date: 2025-09-12
   time: "6:30–9:00 PM"
@@ -15,6 +21,12 @@
   time: "6:30–9:00 PM"
   title: "Birthday Dinner for Oakley"
   location: "Stoked Pizza"
+  abstract: ""
+
+- date: 2025-06-14
+  time: "6:30–8:00 PM"
+  title: "Dance Revelasian Show"
+  location: ""
   abstract: ""
 
 - date: 2025-04-03
@@ -36,6 +48,12 @@
   time: "6:00–9:00 PM"
   title: "Latern Festival Dinner"
   location: "Tasty Burger"
+  abstract: ""
+  
+- date: 2025-02-02
+  time: "7:00–9:30 PM"
+  title: "Chinese Spring Festival Gala"
+  location: "Harvard Sanders Theatre"
   abstract: ""
 
 - date: 2025-01-31
