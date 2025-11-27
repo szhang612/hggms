@@ -5,7 +5,6 @@ permalink: /past-events/
 ---
 
 Below is a list of some of our past events.  
-We update this page periodically as new events happen.
 
 {% assign sorted_past = site.data.past_events | sort: "date" | reverse %}
 
