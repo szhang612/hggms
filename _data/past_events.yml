@@ -1,18 +1,98 @@
-- date: 2024-04-15
-  time: "4:00–5:00 PM"
-  title: "Spring Social & Game Night"
-  location: "Science Center, Room 309"
-  abstract: "An informal social gathering with board games and snacks."
-  photo: "/assets/images/donut.jpg"
+- date: 2025-10-14
+  time: "8:30AM –5:00 PM"
+  title: "Fall Outing to Salem"
+  location: "Salem"
+  abstract: "A fall outing to Salem to (pre)celebrate Halloween!"
+  photo: "/assets/images/fallouting3.jpg"
+  
+- date: 2025-09-12
+  time: "6:30–9:00 PM"
+  title: "Welcome Party and Group Birthday Party"
+  location: "Private"
+  abstract: "A welcome party for the incoming students and a group birthday party for all July-Sept birthdays"
+  
+- date: 2025-06-24
+  time: "6:30–9:00 PM"
+  title: "Birthday Dinner for Oakley"
+  location: "Stoked Pizza"
+  abstract: ""
+  
+- date: 2025-04-03
+  time: "7:00–9:00 PM"
+  title: "Movie Night"
+  location: "Science Center"
+  abstract: ""
 
-- date: 2024-03-20
-  time: "4:00–5:00 PM"
-  title: "Graduate Lightning Talks"
-  location: "Science Center, Room 309"
-  abstract: "Short talks by graduate students on their current research."
+- date: 2025-02-28
+  time: "6:00–9:00 PM"
+  title: "Birthday Dinner for Franklin"
+  location: "Boston Burger Company"
+  abstract: 
+  photos: 
+  -"/assets/images/bdayparty5.jpg"
+  -"/assets/images/bdaparty2.jpg"
 
-- date: 2024-02-10
-  time: "4:00–5:00 PM"
-  title: "Welcome & Kickoff Meeting"
-  location: "Science Center, Room 309"
-  abstract: "Introduced the group, discussed goals, and gathered suggestions for events."
+- date: 2025-02-13
+  time: "6:00–9:00 PM"
+  title: "Latern Festival Dinner"
+  location: "Tasty Burger"
+  abstract: ""
+  
+- date: 2025-01-31
+  time: "6:00–9:00 PM"
+  title: "Welcome Back Dinner"
+  location: "Shanghai Fresh"
+  abstract: "A celebration of the Lunar New Year!"
+  photos: 
+  -"/assets/images/springfestival.jpg"
+  -"/assets/images/springfes2.jpg"
+
+- date: 2024-12-13
+  time: "5:30–7:00 PM"
+  title: "Birthday Dinner"
+  location: "Daedalus"
+  abstract: "A birthday party for Eli"
+  
+- date: 2024-12-07
+  time: "7:30–9:30 PM"
+  title: "Movie Night"
+  location: "Science Center 4th Floor Common Room"
+  abstract: "A movie night watching My Neighbor Totoro"
+
+- date: 2024-11-27
+  time: "6:00–8:00 PM"
+  title: "Thanksgiving Dinner"
+  location: "Private"
+  abstract: "A thanksgiving dinner for those staying on campus"
+  photos: 
+  -"/assets/images/thanksgiving.jpg"
+  -"/assets/images/thanksgiving2.jpg"
+  
+- date: 2024-11-22
+  time: "6:30–8:30 PM"
+  title: "G1/G2 Crossover Movie Night"
+  location: "Science Center"
+  abstract: "A crossover movie night watching The Imitation Game"
+  
+- date: 2024-11-03
+  time: "5:30–8:00 PM"
+  title: "Secret Birthday Dinner"
+  location: "Dirty Water Dough"
+  abstract: "A surprise birthday dinner for Daniel"
+  photos: 
+  -"/assets/images/bdaypaty3.jpg"
+  -"/assets/images/bdayparty4.jpg"
+
+- date: 2024-10-29
+  time: "1:00–4:00 PM"
+  title: "Mt Auburn Cemetery Outing"
+  location: "Mt Auburn Cemetery"
+  abstract: "Fall Outing"
+  photo: "/assets/images/fallouting1.jpg"
+
+- date: 2024-09-13
+  time: "7:00–10:00 PM"
+  title: "Welcome Party + Birthday Party"
+  location: "Private"
+  abstract: "G1 Welcome Party and Birthday Party for Matthew"
+   photo: "/assets/images/bdayparty.jpg"
