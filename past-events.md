@@ -15,9 +15,9 @@ We update this page periodically as new events happen.
     <th>Date</th>
     <th>Time</th>
     <th>Title</th>
-    <th>Photos</th>
     <th>Description</th>
     <th>Location</th>
+    <th>Photos</th>
   </tr>
 </thead>
 <tbody>
