@@ -180,56 +180,58 @@ body {
   border-radius: 6px;
   display: block;
 }
-  .home-layout {
+/* Home hero layout */
+.hero {
   display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  align-items: flex-start;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2.5rem;
+  padding: 1.75rem 1.5rem;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
   margin-top: 1rem;
 }
 
-.home-text {
-  flex: 1 1 55%;   /* text takes most of the space */
-  min-width: 260px;
+.hero-text {
+  flex: 2;
+  min-width: 0;
 }
 
-.home-photo img {
-  max-width: 280px;   /* adjust size as needed */
-  border-radius: 8px;
-  display: block;
+.hero-text p {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
 }
 
-.home-photo {
-  flex: 1 1 35%;
-  display: flex;
-  justify-content: center;
-}
-/* Two-column layout for home page */
-.home-two-col {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 2rem;
-}
-
-/* Left text area: 2/3 width */
-.home-left {
-  width: 66%;
-}
-
-/* Right side photo: 1/3 width */
-.home-right {
-  width: 33%;
+/* Right-side image area (~1/3 of width) */
+.hero-photo {
+  flex: 1;
   display: flex;
   justify-content: flex-end;
 }
 
-/* Make the photo smaller */
-.home-right img {
-  width: 70%;         /* smaller photo (change to 50% if you want tiny) */
-  max-width: 200px;   /* hard cap so it never gets too big */
-  height: auto;
-  border-radius: 8px;
+.hero-photo img {
+  width: 100%;
+  max-width: 260px;    /* make this smaller if you like, e.g. 220px */
+  border-radius: 28px; /* big rounded corners like the screenshot */
+  display: block;
+  object-fit: cover;
+}
+
+/* Stack on small screens */
+@media (max-width: 800px) {
+  .hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-photo {
+    justify-content: flex-start;
+  }
+
+  .hero-photo img {
+    max-width: 220px;
+  }
 }
 
   
