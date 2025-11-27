@@ -239,5 +239,11 @@ body {
     max-width: 220px; /* <-- change this number for mobile size */
   }
 }
+.schedule-table td img,
+.event-photo-list img {
+  max-width: 80px !important;  /* change to whatever size you want */
+  height: auto !important;
+  display: block;
+}
 
 }
