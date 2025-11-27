@@ -14,4 +14,4 @@ Our goal is simple: help math students feel supported, included, and connected.
 Whether you’re new to the department or have been here for years, you’re always welcome to join us.
 
 Want to see what we’ve been up to?
-See our [Past Events](/pastevents/) for photos and highlights from previous activities, and check out our [Schedule](/schedule/) for upcoming events!
+See our [Past Events](/past-events/) for photos and highlights from previous activities, and check out our [Schedule](/schedule/) for upcoming events!
